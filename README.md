@@ -1,6 +1,6 @@
 # ft_containers
 
-- ![alt text](https://img.shields.io/badge/FT__CONTAINERS-125%2F100-green "Note, 125/100")
+- ![alt text](https://img.shields.io/badge/Note-125%2F100-green "Note, 125/100")
 - ![alt text](https://img.shields.io/badge/Dur%C3%A9e%20du%20projet-3%20semaines-yellow, "Durée du projet")
 
 ### Project
