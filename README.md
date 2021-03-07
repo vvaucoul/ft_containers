@@ -1,6 +1,6 @@
 # ft_containers
 
-https://img.shields.io/badge/FT__CONTAINERS-125%2F100-green
+[logo]: https://img.shields.io/badge/FT__CONTAINERS-125%2F100-green "Logo Title Text 2"
 
 ### Project
 
