@@ -1,6 +1,6 @@
 # ft_containers
 
-![alt text](https://img.shields.io/badge/FT__CONTAINERS-125%2F100-green "Logo Title Text 1")
+![alt text](https://img.shields.io/badge/FT__CONTAINERS-125%2F100-green "Note, 125/100")
 
 ### Project
 
